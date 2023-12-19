@@ -19,4 +19,3 @@ This workshop focuses on the practical use of Python programming tools for colla
 ## Synchronous Sessions
 Links to synchronous Zoom sessions will be provided here: 
 
-
