@@ -17,6 +17,14 @@ This workshop focuses on the practical use of Python programming tools for colla
 - `proposals`: Folder for students to upload their application proposals of the learned tools: web scraping and text information retrieval. Each student should create a folder with their name following the format: `branch_{name}`.
 
 ## Synchronous Sessions
-Links to synchronous Zoom sessions will be provided here: 
+The link for the synchronous sessions is <a href="https://pucp.zoom.us/j/95222585367?pwd=ZHNjK2E4MTRnRW14OFNUK1dLUnFtQT09
+" target="_blank"> here </a>
+
+- Meeting ID: 952 2258 5367
+- Access code: 636549
+
+
+
+
 
 
