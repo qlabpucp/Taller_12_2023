@@ -1,0 +1,8 @@
+opencv-python
+PyPDF2<3.0
+PDFMiner
+camelot-py[base]
+ghostscript
+pdf2image
+pdfminer.six
+matplotlib
