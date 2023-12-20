@@ -23,6 +23,10 @@ The link for the synchronous sessions is <a href="https://pucp.zoom.us/j/9522258
 - Meeting ID: 952 2258 5367
 - Access code: 636549
 
+## Recordings:
+
+- Sessión 1: <a href="https://pucp.zoom.us/rec/share/vOdVeDn_8mlcAr5y_6gxQ0EWMerCLGdYvXSTORQBF7vHrvgqHNpEax6yS73fXeKe.oo2uYFYbf7ocs57V?startTime=1702997843000" target="_blank"> Click here </a>
+
 
 
 
