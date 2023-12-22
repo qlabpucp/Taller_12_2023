@@ -24,9 +24,11 @@ The link for the synchronous sessions is <a href="https://pucp.zoom.us/j/9522258
 - Access code: 636549
 
 ## Recordings:
+Log with your PUCP account
 
-- Sessión 1: <a href="https://pucp.zoom.us/rec/share/vOdVeDn_8mlcAr5y_6gxQ0EWMerCLGdYvXSTORQBF7vHrvgqHNpEax6yS73fXeKe.oo2uYFYbf7ocs57V?startTime=1702997843000" target="_blank"> Click here </a>
-
+- Session 1: <a href="https://drive.google.com/file/d/1VS1r5743cvZr7CgYuNPkCT_HLKCxQJCx/view?usp=sharing" target="_blank"> Click here </a>
+- Session 2: <a href="https://drive.google.com/file/d/1NuWf1sQTFrsMDRpz18kutFS9xEJ-Ub75/view?usp=sharing" target="_blank"> Click here </a>
+- Session 3: <a href="https://drive.google.com/file/d/1gczNzHAjtRyZwJOgy-r3_dies79IgaQI/view?usp=sharing" target="_blank"> Click here </a>
 
 
 
