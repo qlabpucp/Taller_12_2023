@@ -1,7 +1,7 @@
 # Workshop on Web Scraping and Text Information Retrieval
 
 ## Overview
-This workshop focuses on the practical use of Python programming tools for collaborative development, web data extraction, and information retrieval from documents. Participants will learn to:
+This workshop focuses on using Python programming tools for collaborative development, web data extraction, and information retrieval from documents. Participants will learn to:
 1. Use GitHub for collaborative projects.
 2. Develop effective Web Scraping tools.
 3. Retrieve and process relevant information from text documents.
@@ -24,12 +24,4 @@ The link for the synchronous sessions is <a href="https://pucp.zoom.us/j/9522258
 - Access code: 636549
 
 ## Recordings:
-Log with your PUCP account
-
-- Session 1: <a href="https://drive.google.com/file/d/1VS1r5743cvZr7CgYuNPkCT_HLKCxQJCx/view?usp=sharing" target="_blank"> Click here </a>
-- Session 2: <a href="https://drive.google.com/file/d/1NuWf1sQTFrsMDRpz18kutFS9xEJ-Ub75/view?usp=sharing" target="_blank"> Click here </a>
-- Session 3: <a href="https://drive.google.com/file/d/1gczNzHAjtRyZwJOgy-r3_dies79IgaQI/view?usp=sharing" target="_blank"> Click here </a>
-
-
-
-
+You can log in with your PUCP account. The link for the recordings YouTube playlist is <a href="https://www.youtube.com/playlist?list=PLqq4bX-XIg36O40vOo0yvZE_5ZVDVsOBn" target="_blank"> here </a>
