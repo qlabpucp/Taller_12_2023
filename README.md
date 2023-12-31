@@ -25,7 +25,7 @@ The link for the synchronous sessions is <a href="https://pucp.zoom.us/j/9522258
 - Meeting ID: 952 2258 5367
 - Access code: 636549
 
-## Recordings:
+## Recordings
 You can log in with your PUCP account. The link for the recordings YouTube playlist is <a href="https://www.youtube.com/playlist?list=PLqq4bX-XIg36O40vOo0yvZE_5ZVDVsOBn" target="_blank"> here </a>
 
 ## Working on the Cloud for the Text Information Retrieval Section
