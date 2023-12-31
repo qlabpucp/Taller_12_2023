@@ -33,5 +33,6 @@ The Text Information Retrieval section involves installing and managing multiple
 
 ## Instructor Information
 
-- **Instructor Name:** [Josue Caldas]
-- **GitHub Profile:** [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)]([https://github.com/josuecaldasv])
+- **Instructor Name:** Josue Caldas
+- **GitHub Profile:** [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/josuecaldasv)
+
